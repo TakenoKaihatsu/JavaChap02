@@ -9,5 +9,6 @@ public class Sample02{
 		System.out.println('\u0041');
 		System.out.println("\u0041\u0042\n");
 		System.out.println(true);
+		
 	}
 }
