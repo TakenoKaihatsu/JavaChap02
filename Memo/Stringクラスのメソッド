@@ -1,0 +1,19 @@
+String型の変数名.メソッド名;
+
+char charAt(int index)
+→指定したインデックスの1文字を返す
+
+boolean equals(Object anObject)
+→文字列と引数のオブジェクトの文字列を比較し、一致していればtrueを返す
+
+int indexOf(String Str)
+→指定した文字列が出現する最初のインデックスを返す
+
+int length()
+→文字列の長さを返す
+
+String replace(CharSequence target, CharSequence replacement)
+→target文字列をreplacement文字列に置き換える
+
+String Substring(int beginIndex, int endIndex)
+→beginIndexからendIndex-1までの部分文字列を返す
