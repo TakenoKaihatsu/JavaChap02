@@ -1,0 +1,6 @@
+Stirng formatted(Object... args)
+→書式設定文字列を使用し、書式を設定する
+String stripIndent()
+→行の先頭と最後から余分なインデントを削除する
+String trancelateEscapes()
+→エスケープシーケンスを変換した文字列を返す
